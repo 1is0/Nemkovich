@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.350,D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Firma.h=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.228,D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Kurers.h=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.228,D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Kurers.cpp=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.669,=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.718,=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.248,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.155,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.143,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.194,=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.681,=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.856,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.350,D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Firma.cpp=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\Programming\2 Semestr\C++ ( Labs )\Lab 2\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
