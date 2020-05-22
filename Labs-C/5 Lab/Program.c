@@ -2,7 +2,7 @@
 
 void CheckInput(int* a)
 {
-	while (!scanf("%d", &(*a)))
+	while (!scanf("%d", &(*a)) || *a <= 0)
 	{
 		printf("Wrong input! Try again:\n");
 		while (getchar() != '\n');
