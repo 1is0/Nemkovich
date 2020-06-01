@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.448,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Program.dfm=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Unit1.h=D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Tree.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Unit1.cpp=D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\IndTree.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.688,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\IndTree.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Unit1.h=D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\IndTree.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.236,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.276,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Project1.cbproj=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.238,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Unit1.h=D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\List.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Unit1.h=D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\IndTree.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Program.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Program.cpp=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Program.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Program.dfm=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Program.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Program.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Program.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\List.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.566,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Project1PCH1.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Program.cpp=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.608,=D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Unit1.cpp=D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Tree.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Unit1.cpp=D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\IndTree.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.423,=D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.008,=D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.399,=D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.237,D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\Unit1.cpp=D:\Programming\2 Semestr\C++ ( Labs )\Lab 6 ( C++ )\List.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
