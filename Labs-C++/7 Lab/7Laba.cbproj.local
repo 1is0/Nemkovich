@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.198,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Program.cpp=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.228,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\HashTabStack.cpp=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.798,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.338,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Stack.cpp=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\IndTask.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,D:\Programming\2 Semestr\C++ ( Labs )\Lab 7 ( C++ )\Node.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Node.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,D:\Programming\2 Semestr\C++ ( Labs )\Lab 7 ( C++ )\HashTabStack.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\HashTabStack.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,D:\Programming\2 Semestr\C++ ( Labs )\Lab 7 ( C++ )\HashTabStack.cpp=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\HashTabStack.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.868,D:\Programming\2 Semestr\C++ ( Labs )\Lab 7 ( C++ )\Program.dfm=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Program.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.803,D:\Programming\2 Semestr\C++ ( Labs )\Lab 7 ( C++ )\IndTask.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\IndTask.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Program.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.918,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.978,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Stack.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Program.dfm=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.978,D:\Programming\2 Semestr\C++ ( Labs )\Lab 7 ( C++ )\7Laba.cbproj=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,D:\Programming\2 Semestr\C++ ( Labs )\Lab 7 ( C++ )\Node.cpp=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Node.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,D:\Programming\2 Semestr\C++ ( Labs )\Lab 7 ( C++ )\Stack.cpp=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Stack.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.228,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\HashTabStack.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.788,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Node.cpp=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.868,D:\Programming\2 Semestr\C++ ( Labs )\Lab 7 ( C++ )\Program.cpp=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Program.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.788,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Node.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.868,D:\Programming\2 Semestr\C++ ( Labs )\Lab 7 ( C++ )\Program.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Program.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.803,D:\Programming\2 Semestr\C++ ( Labs )\Lab 7 ( C++ )\IndTask.cpp=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\IndTask.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,D:\Programming\2 Semestr\C++ ( Labs )\Lab 7 ( C++ )\Stack.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Stack.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.276,=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\IndTask.cpp=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,D:\Programming\2 Semestr\C++ ( Labs )\Lab 7 ( C++ )\7LabaNemkovich.h=C:\Users\pkhp\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="7Laba.cpp"/>
+    <File Path="7LabaNemkovich.h"/>
+    <File Path="Program.cpp"/>
+    <File Path="Program.cpp"/>
+    <File Path="Program.dfm"/>
+    <File Path="Program.h"/>
+    <File Path="Node.cpp"/>
+    <File Path="Node.cpp"/>
+    <File Path="Node.h"/>
+    <File Path="Stack.cpp"/>
+    <File Path="Stack.cpp"/>
+    <File Path="Stack.h"/>
+    <File Path="HashTabStack.cpp"/>
+    <File Path="HashTabStack.cpp"/>
+    <File Path="HashTabStack.h"/>
+    <File Path="IndTask.cpp"/>
+    <File Path="IndTask.cpp"/>
+    <File Path="IndTask.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
