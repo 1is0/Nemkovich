@@ -1,0 +1,56 @@
+customer1
+item1
+requisits1
+21.01.2019
+16 days
+14
+23
+45
+customer2
+item2
+requisits2
+22.04.2020
+1,5 year
+3
+61
+66
+customer3
+item3
+requisits3
+19.03.2016
+9 years
+4
+55
+77
+customer4
+item4
+requisits4
+02.06.2020
+15 days
+2
+66
+88
+customer5
+item5
+requisits5
+03.06.2020
+4 days
+2
+33
+44
+customer6
+item6
+requisits6
+01.05.2020
+45 days
+1
+35
+78
+customer7
+item7
+requisits7
+30.04.2020
+60 days
+18
+23
+37
